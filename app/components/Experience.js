@@ -15,7 +15,7 @@ export default function Experience() {
             </h4>
             <p className="mt-2 text-white">
               Worked on a team responsible for developing new features for
-              Google's search engine, including improving the accuracy and
+              Google&apos;s search engine, including improving the accuracy and
               relevance of search results and developing new tools for data
               analysis and visualization.
             </p>
@@ -40,9 +40,9 @@ export default function Experience() {
             </h3>
             <h4 className="text-md text-gray-500">2020-2021 | Seattle, WA</h4>
             <p className="mt-2 text-white">
-              Worked on a team responsible for developing Amazon's mobile app,
-              including implementing new features such as product
-              recommendations and user reviews, and optimizing the app's
+              Worked on a team responsible for developing Amazon&apos;s mobile
+              app, including implementing new features such as product
+              recommendations and user reviews, and optimizing the app&apos;s
               performance and reliability.
             </p>
           </div>
@@ -53,9 +53,9 @@ export default function Experience() {
             <h4 className="text-md text-gray-500">Summer 2019 | Redmond, WA</h4>
             <p className="mt-2 text-white">
               Worked on a team responsible for developing new features for
-              Microsoft's Windows operating system, including implementing a new
-              user interface for a system settings panel and optimizing the
-              performance of a core system component.
+              Microsoft&apos;s Windows operating system, including implementing
+              a new user interface for a system settings panel and optimizing
+              the performance of a core system component.
             </p>
           </div>
         </div>
@@ -84,8 +84,9 @@ export default function Experience() {
               2020-2022 | Stanford University
             </h4>
             <p className="mt-2 text-white">
-              Completed a master's project on deep learning, developing a new
-              neural network architecture for natural language understanding.
+              Completed a master&apos;s project on deep learning, developing a
+              new neural network architecture for natural language
+              understanding.
             </p>
           </div>
           <div className="max-w-2xl mb-12">
